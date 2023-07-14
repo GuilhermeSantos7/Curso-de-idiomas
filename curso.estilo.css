@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+.seçao-cinza{
+    background-color: grey;
+    color: black;
+    font-weight: bold;
+    padding: 10px 30px;
+    text-align: center;
+}
+.seçao-azul{
+    background-color: rgb(79, 172, 226);
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+}
+.seçao-branca{              
+    padding: 20px 30px;
+    text-align: center; 
+}
+.imagemdocurso{
+    width: 600px;
+    height: 300px;
+}
+img{
+    width: 200px;
+    height: 120px;    
+}
+h4, h2{
+    font-weight: normal;
+}
+p{
+    color: rgb(79, 172, 226);
+    text-align: center;
+    padding: 10px 30px;
+}
